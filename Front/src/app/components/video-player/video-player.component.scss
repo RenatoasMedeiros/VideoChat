@@ -1,0 +1,18 @@
+video{
+  width: 350px;
+  height: 250px;
+  object-fit: cover;
+  border: solid 2px white;
+}
+
+.wrapper-video{
+  position: relative;
+}
+
+.label-name{
+  position: absolute;
+  bottom: 0;
+  margin: .55rem .15rem;
+  padding: .25rem;
+  background-color: white;
+}
